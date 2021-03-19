@@ -1,0 +1,10 @@
+
+<section class="row">
+  <article class="column">
+    <div id="root">
+      React component loading...
+    </div>
+    <p><%= link "Experiment", to: Routes.page_path(@conn, :experiment) %></p>
+
+  </article>
+</section>

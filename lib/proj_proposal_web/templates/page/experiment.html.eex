@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col">
+    <h1>Experiment Searching Movies with Query "Parasite"</h1>
+
+
+
+    <div>
+      <%= inspect(@result, pretty: true) %>
+    </div>
+  </div>
+</div>
